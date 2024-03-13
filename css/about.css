@@ -117,10 +117,7 @@ article img {
   width: 200px;
   height: 200px;
   border-radius: 999px;
-  -webkit-border-radius: 999px;
-  -moz-border-radius: 999px;
-  -ms-border-radius: 999px;
-  -o-border-radius: 999px;
+  margin-bottom: 10px;
 }
 
 span {
